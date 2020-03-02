@@ -18,4 +18,7 @@ public class MainActivity extends AppCompatActivity {
             //TS_ViewModelStats
         //Organ shipper: OS
             //OS_MainActivity
+            //OS_AddOrganStats
+            //OS_AddOrganPictures
+            //OS_PushOrganDB
 }
