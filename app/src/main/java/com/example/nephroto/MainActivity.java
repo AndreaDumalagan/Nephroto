@@ -13,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Add multiuser features
+        //Transplant surgeon: TS
+        //Organ shipper: OS
 }
