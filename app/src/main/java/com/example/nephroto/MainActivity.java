@@ -13,12 +13,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Add multiuser features
-        //Transplant surgeon: TS
-            //TS_MainActivity
-            //TS_ViewModelStats
         //Organ shipper: OS
             //OS_MainActivity
             //OS_AddOrganStats
             //OS_AddOrganPictures
             //OS_PushOrganDB
+        // Transplant surgeon: TS
+            //TS_MainActivity
+            //TS_ViewModelStats
+
 }
